@@ -1,0 +1,18 @@
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Titanic', 'Drama', '1997-12-19', 30000000, 6);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('O Poderoso Chefão', 'Drama', '1972-03-24', 25000000, 8);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Interestelar', 'Ficção Científica', '2014-11-06', 45000000, 9);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Jurassic Park', 'Aventura', '1993-06-11', 22000000, 7);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('O Exorcista', 'Terror', '1973-12-26', 30000000, 5);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Seven - Os Sete Crimes Capitais', 'Suspense', '1995-09-22', 28000000, 7);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Forrest Gump', 'Drama', '1994-07-06', 35000000, 4);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('O Senhor dos Anéis', 'Fantasia', '2001-12-19', 40000000, 10);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Super Size Me', 'Documentário', '2004-05-07', 23000000, 6);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('A Vida é Bela', 'Comédia', '1997-12-20', 26000000, 7);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('La La Land', 'Romance', '2016-12-09', 21000000, 5);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Blade Runner', 'Ficção Científica', '1982-06-25', 33000000, 8);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Gladiador', 'Ação', '2000-05-05', 32000000, 9);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Os Caçadores da Arca Perdida', 'Aventura', '1981-06-12', 29000000, 7);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Cantando na Chuva', 'Musical', '1952-04-11', 25000000, 6);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Jack and Jill', 'Comédia', '2011-11-11', 79000000, 3);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Lagoa Azul', 'Romance', '1980-07-02', 20000000, 4);
+INSERT INTO filme (titulo, genero, data_lancamento, custo_producao, nota) VALUES ('Norbit', 'Comédia', '2007-02-09', 60000000, 2);
